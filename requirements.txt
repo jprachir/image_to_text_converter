@@ -4,3 +4,4 @@ Pillow==9.4.0
 huggingface-hub==0.16.4
 tokenizers==0.13.3
 streamlit==1.26.0
+torch==2.0.1
