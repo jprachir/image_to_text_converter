@@ -5,7 +5,6 @@ import requests
 from PIL import Image
 from io import BytesIO
 
-# hf_token = "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"
 # Load model directly
 
 # load the huggingface model img2txt
